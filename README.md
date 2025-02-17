@@ -8,10 +8,10 @@
 
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
 
-- 💻 Founding member and Senior Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real-estate market.
+- 💻 Founding member and Senior Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real estate market.
 - 👨‍🎓 B.Sc. graduate from AmirKabir University of Technology in Electrical and Computer Engineering
 - 📚 My academic journey and publications: [my Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
-- 🌱 Every day I try to **Learn** new things and I's always ready for new challenges, so if you have one, count me in
+- 🌱 Every day I try to Learn new things and I'm always ready for new challenges, so if you have one, count me in :)
 - 📫 How to reach me:  email: R.Babaeimosleh@gmail.com, Telegram: @mhmadbabaei
 
 
@@ -32,3 +32,6 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh&" alt="mohammadreza-babaeimosleh" />
 </div>
 
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
