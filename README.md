@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mhmadbabaeii/)](https://www.instagram.com/mhmadbabaeii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:R.Babaeimosleh@gmail.com)
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh)](https://git.io/streak-stats)
 
 
 - 💻 Founding member and Senior Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real estate market.
