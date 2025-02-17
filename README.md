@@ -29,7 +29,7 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact&theme=dark" alt="mohammadreza-babaeimosleh" />
-  <a width="45%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh&theme=merko&exclude_days=Fri&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a width="45%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh" alt="GitHub Streak" /></a>
 </div>
 
 
