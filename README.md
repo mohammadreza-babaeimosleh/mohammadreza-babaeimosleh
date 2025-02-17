@@ -29,7 +29,7 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact" alt="mohammadreza-babaeimosleh" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh&" alt="mohammadreza-babaeimosleh" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh" alt="mohammadreza-babaeimosleh" />
 </div>
 
 
