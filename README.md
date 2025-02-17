@@ -1,5 +1,4 @@
 # Mohammad Reza Babaei Mosleh
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh)](https://git.io/streak-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohammadreza-babaeimosleh%2Fmohammadreza-babaeimosleh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/elecdaddy)](https://twitter.com/elecdaddy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-babaei-mosleh/)
@@ -30,7 +29,7 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact" alt="mohammadreza-babaeimosleh" />
-  <a width="45%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammadreza-babaeimosleh&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 
