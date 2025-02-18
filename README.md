@@ -11,7 +11,7 @@
 - 💻 Founding member and Senior Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real estate market.
 - 👨‍🎓 B.Sc. graduate from AmirKabir University of Technology in Electrical and Computer Engineering
 - 📚 My academic journey and publications: [my Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
-- 🌱 Every day I try to Learn new things and I'm always ready for new challenges, so if you have one, count me in :)
+- 🌱 Every day I try to **Learn** new things and I'm always ready for new challenges, so if you have one, count me in :)
 - 📫 How to reach me:  email: R.Babaeimosleh@gmail.com, Telegram: @mhmadbabaei
 
 
@@ -28,7 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Google%20Cloud%20-05122A?style=flat-square&logo=Google-Cloud&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat-square&logo=SQLAlchemy&color=353535) ![Bootstrap](https://img.shields.io/badge/-GraphQL-05122A?style=flat-square&logo=GraphQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact&hide=c,objective-c&langs_count=10" alt="mohammadreza-babaeimosleh" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact&hide=c,objective-c,jupyter nootbook&langs_count=10" alt="mohammadreza-babaeimosleh" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh" alt="mohammadreza-babaeimosleh" />
 </div>
 
