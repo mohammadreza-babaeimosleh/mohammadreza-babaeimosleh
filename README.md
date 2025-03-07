@@ -29,6 +29,6 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact&hide=c,objective-c,HTML,shell,makefile,c%2B%2B,objective-c%2B%2B,M4,roff,module%20management%20system,vhdl,batchfile,Jupyter%20Notebook&langs_count=10" alt="mohammadreza-babaeimosleh" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh" alt="mohammadreza-babaeimosleh" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri" alt="mohammadreza-babaeimosleh" />
 </div>
 
