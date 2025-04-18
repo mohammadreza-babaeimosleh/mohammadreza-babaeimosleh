@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
 
 
-- 💻 Founding member, Backend Developer, and Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real estate market.
+- 💻 Founding member, Software Engineer, and Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI and LLMs in the real estate market.
 - 👨‍🎓 B.Sc. graduate from AmirKabir University of Technology in Electrical and Computer Engineering
 - 📚 My academic journey and publications: [my Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
 - 🌱 Every day I try to **Learn** new things and I'm always ready for new challenges, so if you have one, count me in :)
