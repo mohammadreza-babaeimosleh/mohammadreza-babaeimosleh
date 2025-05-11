@@ -18,12 +18,11 @@
 
 ### 🖥 Skills
 
-- Machine Learning
-- Deep Learning
+- Software Engineering
+- Backend Development
+- Machine Learning & Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Backend Development
-- Software Engineering
 
 ### ⚙️ Tech Stack
 
