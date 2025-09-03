@@ -12,7 +12,7 @@
 - 👨‍🎓 B.Sc. graduate from AmirKabir University of Technology in Electrical and Computer Engineering
 - 📚 My academic journey and publications: [my Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
 - 🌱 Every day I try to **Learn** new things and I'm always ready for new challenges, so if you have one, count me in :)
-- 📫 How to reach me:  email: R.Babaeimosleh@gmail.com, Telegram: @mhmadbabaei
+- 📫 How to reach me:  email: Babaeimoslehmohammadreza@gamil.com, Telegram: @mhmadbabaei
 
 
 
