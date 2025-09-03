@@ -1,12 +1,11 @@
 # Mohammad Reza Babaei Mosleh
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohammadreza-babaeimosleh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Views](https://u8views.com/api/v1/github/profiles/YOUR_NUMERIC_ID/views/day-week-month-total-count.svg)](https://u8views.com/github/mohammadreza-babaeimosleh)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/elecdaddy)](https://twitter.com/elecdaddy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-babaei-mosleh/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/mhmadbabaeii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:R.Babaeimosleh@gmail.com)
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
-
 
 - 💻 Founding member, Software Engineer, and Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company trying to utilize AI, LLMs, and software engineering in the real estate market.
 - 👨‍🎓 B.Sc. graduate from AmirKabir University of Technology in Electrical and Computer Engineering
