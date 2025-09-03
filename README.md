@@ -53,7 +53,4 @@
        alt="Top languages" />
 
   <!-- Streak stats (maintained host) -->
-  <img width="50%"
-       src="https://streak-stats.demolab.com/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri"
-       alt="GitHub Streak" />
-</div>
+<img width="50%" src="https://streak-stats.demolab.com/?user=mohammadreza-babaeimosleh&type=png&exclude_days=Thu,Fri" alt="GitHub Streak" />
