@@ -57,12 +57,3 @@
        src="https://streak-stats.demolab.com/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri"
        alt="GitHub Streak" />
 </div>
-
-<!-- Optional overall stats card; remove if you prefer a lighter README -->
-
-<div>
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=mohammadreza-babaeimosleh&show_icons=true&hide=stars"
-       alt="GitHub Stats" />
-</div>
--->
