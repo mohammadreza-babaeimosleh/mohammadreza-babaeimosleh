@@ -9,7 +9,8 @@
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
 
 - 💻 Founding member, Software Engineer, and Data Scientist @ [**PropertyGPT**](https://www.propertygpt.com/), a tech company using AI, LLMs, and software engineering in real estate.
-- 👨‍🎓 B.Sc. in Electrical and Computer Engineering — AmirKabir University of Technology
+- 👨‍🎓 M.Sc. in M1 Electrical Engineering for Communications & Information Processing — Institut Polytechnique de Paris
+- 👨‍🎓 B.Sc. in Electrical and Computer Engineering — AmirKabir University of Technology 
 - 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
 - 🌱 I love to **learn** and take on new challenges—if you’ve got one, count me in :)
 - 📫 How to reach me: email: **R.Babaeimosleh@gmail.com**, Telegram: **@mhmadbabaei**
