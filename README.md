@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <img width="45%"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza-babaeimosleh&show_icons=true&locale=en&layout=compact&hide=c,objective-c,HTML,shell,makefile,c%2B%2B,objective-c%2B%2B,M4,roff,module%20management%20system,vhdl,batchfile,Jupyter%20Notebook&langs_count=10"
        alt="Top languages" />
