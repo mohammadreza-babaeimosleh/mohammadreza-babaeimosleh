@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-babaei-mosleh/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/mhmadbabaeii)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmadbabaei)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:R.Babaeimosleh@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Babaeimoslehmohammadreza@gmail.com)
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
 
 - 💻 Founding member, Software Engineer, and Data Scientist @ [**PropertyGPT L.L.C**](https://www.propertygpt.com/), a tech company using AI, LLMs, and software engineering in real estate.
