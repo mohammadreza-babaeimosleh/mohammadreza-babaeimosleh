@@ -59,7 +59,3 @@
     width="400"
   />
 </p>
-
-
-<!-- Streak stats (using stable Vercel mirror) -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri)](https://github-readme-streak-stats-eight.vercel.app/demo/)
