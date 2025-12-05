@@ -54,5 +54,5 @@
        alt="Top languages" />
 </div>
 
-<!-- Streak stats (maintained host) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri)](https://streak-stats.demolab.com)
+<!-- Streak stats (using stable Vercel mirror) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri)](https://github-readme-streak-stats-eight.vercel.app/demo/)
