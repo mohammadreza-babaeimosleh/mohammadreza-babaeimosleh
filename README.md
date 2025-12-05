@@ -62,9 +62,3 @@
   />
 
 </div>
-c%2B%2B,M4,roff,module%20management%20system,vhdl,batchfile,Jupyter%20Notebook&langs_count=10"
-       alt="Top languages" />
-</div>
-
-<!-- Streak stats (using stable Vercel mirror) -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri)](https://github-readme-streak-stats-eight.vercel.app/demo/)
