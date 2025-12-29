@@ -47,16 +47,14 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-babaeimosleh&layout=compact&langs_count=10&hide=c,objective-c,html,shell,makefile,c%2B%2B,objective-c%2B%2B,m4,roff,module%20management%20system,vhdl,batchfile,jupyter%20notebook"
-           alt="Top languages" width="360" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri"
-           alt="GitHub Streak" width="360" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span style="vertical-align: top; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-babaeimosleh&layout=compact&langs_count=10"
+         alt="Top languages" width="360" />
+  </span>
 
+  <span style="vertical-align: top; display: inline-block;">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri"
+         alt="GitHub Streak" width="360" />
+  </span>
+</p>
