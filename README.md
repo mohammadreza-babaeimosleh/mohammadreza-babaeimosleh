@@ -42,19 +42,3 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C%2B%2B&color=353535)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <span style="vertical-align: top; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreza-babaeimosleh&layout=compact&langs_count=10"
-         alt="Top languages" width="360" />
-  </span>
-
-  <span style="vertical-align: top; display: inline-block;">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohammadreza-babaeimosleh&exclude_days=Thu,Fri"
-         alt="GitHub Streak" width="360" />
-  </span>
-</p>
