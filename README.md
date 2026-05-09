@@ -26,6 +26,10 @@
 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&color=353535)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript&color=353535)
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&color=353535)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js&color=353535)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20-05122A?style=flat-square&logo=Google-Cloud&color=353535)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
