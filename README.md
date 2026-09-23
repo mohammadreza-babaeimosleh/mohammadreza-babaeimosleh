@@ -8,8 +8,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Babaeimoslehmohammadreza@gmail.com)
 [![Github](https://img.shields.io/github/followers/mohammadreza-babaeimosleh?label=Follow&style=social)](https://github.com/mohammadreza-babaeimosleh)
 
-- 💻 Founding member, Software Engineer, and ML Engineer @ [**PropertyGPT L.L.C**](https://www.propertygpt.com/), a tech company using AI, LLMs, and software engineering in the real estate industry.
-- 👨‍🎓 M.Sc. in M1 Data Analysis and Pattern Classification — Institut Polytechnique de Paris
+- 👨‍🎓 M.Sc. in M2 Machine learnIng, CommunicAtions, and Security (MICAS) — Institut Polytechnique de Paris
+- 👨‍🎓 M.Sc. in M1 Data Analysis and Pattern Classification (DATAPAC) — Institut Polytechnique de Paris
 - 👨‍🎓 B.Sc. in Electrical and Computer Engineering — AmirKabir University of Technology 
 - 📚 Publications: [Google Scholar](https://scholar.google.com/citations?user=3mc6498AAAAJ&hl=en)
 - 🌱 I love to **learn** and take on new challenges, if you’ve got one, count me in :)
