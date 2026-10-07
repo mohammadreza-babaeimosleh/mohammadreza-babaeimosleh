@@ -26,6 +26,7 @@
 
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&color=353535)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript&color=353535)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&color=353535)
